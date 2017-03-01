@@ -51,7 +51,7 @@ planes3d(a = 0,
          color = c("blue"))
 ```
 
-## Multibple
+## Multiple
 
 ```{r, webgl=TRUE, echo=FALSE, message=FALSE}
 clear3d()
